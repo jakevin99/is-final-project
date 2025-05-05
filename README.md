@@ -3,6 +3,21 @@
 ## Project Overview
 This project involves collaborating in a GitHub repository using the Svelte, Bun, and Ollama tech stack to develop an AI agent that simulates aspects of a theoretical General AI approach. Teams will design and implement a functional API that integrates with the repository.
 
+## Getting Started
+After cloning this repository, you need to:
+
+1. Install Bun (if not already installed):
+   ```bash
+   
+   #using npm
+   npm install -g bun
+   ```
+
+2. Install dependencies using Bun:
+   ```bash
+   bun i
+   ```
+
 ## Learning Objectives
 By completing this project, you will:
 - Work collaboratively in a Git-based development workflow (branching, pull requests, merging)
